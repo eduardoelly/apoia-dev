@@ -40,7 +40,7 @@
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/apoia-dev.git
+git clone https://github.com/eduardoelly/apoia-dev.git
 cd apoia-dev
 ```
 
